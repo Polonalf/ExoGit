@@ -1,4 +1,8 @@
+<?php
+require 'fonction.php';
+?>
 <!DOCTYPE html>
+
 <html lang="fr">
 <head>
 	<title>Serializer</title>
